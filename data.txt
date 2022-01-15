@@ -1,0 +1,2 @@
+name,age,friend
+Andrew,32,True
