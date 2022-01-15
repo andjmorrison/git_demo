@@ -1,4 +1,5 @@
-x = 'my_friend'
-y = 'Woody'
+x = 'my friend'
+z = 'Woody'
+y = 'on a yearly basis'
 
-print(f'{y}, are you {x}?')
+print(f'{z}, are you {x} {y}?')
