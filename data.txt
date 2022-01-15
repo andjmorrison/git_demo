@@ -1,2 +1,3 @@
 name,age,friend
 Andrew,32,True
+Greg,50,False
